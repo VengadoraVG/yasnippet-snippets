@@ -1,0 +1,6 @@
+# name: bootstrap submit
+# key: submit
+# --
+<button type="submit"
+	class="btn btn-primary"
+	action="submit"> $1 </button> $0
