@@ -1,1 +1,0 @@
-game.physics.startSystem(Phaser.Physics.ARCADE);

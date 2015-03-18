@@ -2,9 +2,9 @@
 #key: level
 # --
 var level = (function () {
-    var create = function () {};
-
     var preload = function () {};
+
+    var create = function () {};
 
     var update = function () {};
 
