@@ -1,0 +1,22 @@
+# name: yo package.js
+# key: lets-jam
+# --
+{
+  "name": "generator-$1",
+  "version": "${2:0.1.0}",
+  "description": "$3",
+  "files": [
+    "app"${4:,
+    "$5"}
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  },
+  ${6:"repository": {
+    "type": "git",
+    "url": "$7"
+  },}
+  "author": "${8:vg}",
+  "license": "${9:GPL-3.0}"
+}

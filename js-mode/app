@@ -1,0 +1,1 @@
+var $1 = angular.module('{$2:$1}', [$3]);$0

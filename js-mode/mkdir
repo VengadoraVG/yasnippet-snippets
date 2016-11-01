@@ -1,0 +1,5 @@
+${1:var dir = $2};
+
+if (!fs.existsSync(dir)) {
+  fs.mkdirSync(dir);
+}$0

@@ -1,0 +1,8 @@
+# name: bootstrap checkbox
+# key: checkbox
+# --
+<div class="checkbox">
+  <label>
+    <input type="checkbox" /> $0
+  </label>
+</div>

@@ -1,0 +1,7 @@
+# name: css transition
+# key: transition
+# --
+transition: $1;
+-webkit-transition: $1;
+-moz-transition: $1;
+-ms-transition: $1;

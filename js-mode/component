@@ -1,0 +1,8 @@
+angular.
+  module('$1').
+  component('$2', {
+    template: $3,
+    controller: function $4 () {
+      $0
+    }
+  });

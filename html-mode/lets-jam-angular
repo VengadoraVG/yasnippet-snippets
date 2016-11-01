@@ -1,0 +1,17 @@
+# name: angular
+# key: lets-jam
+# --
+<!doctype html>
+<html lang="en" ng-app="$1">
+  <head>
+    <meta charset="utf-8">
+    <title>$2</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+    <script src="bower_components/angular/angular.js"></script>
+  </head>
+  <body$3>
+
+    $0
+
+  </body>
+</html>

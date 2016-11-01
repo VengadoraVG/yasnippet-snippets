@@ -1,0 +1,7 @@
+# name: yeomann
+# key: cp
+# --
+this.fs.copy(
+  this.templatePath('${1:file}'),
+  this.destinationRoot()
+);

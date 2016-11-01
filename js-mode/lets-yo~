@@ -1,0 +1,11 @@
+{
+  "name": "generator-$1",
+  "version": "${2:0.1.0}",
+  "description": "$3",
+  "files": [
+    "app"${4:,
+    "$5"}
+  ],
+  "author": "$6",
+  "license": "$7"
+}
